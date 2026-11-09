@@ -1,0 +1,12 @@
+{
+  "name": "fleet-app",
+  "version": "1.0.0",
+  "description": "Sample app for automated dependency updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
